@@ -7,46 +7,4 @@ Let me know if anything should be added
 
 Checks the source code for there strings:
 
-LaunchClassLoader
-
-field.setAccessible(true); 
-
-Launch 
-
-InputStreamReader 
-
-new File 
-
-FileOutputStream 
-
-ProcessBuilder 
-
-BufferedReader 
-
-Base64 
-
-URL 
-
-Runtime 
-
-ProcessBuilder 
-
-HttpsURLConnection 
-
-HttpURLConnection 
-
-URLConnection 
-
-Process 
-
-isProcessRunning 
-
-isProcessRunningTitle 
-
-System.getProperty 
-
-System.getenv 
-
-Runtime.getRuntime().exec 
-
-.exec
+"LaunchClassLoader", "field.setAccessible(true);", "Launch", "InputStreamReader", "new File", "FileOutputStream", "ProcessBuilder", "BufferedReader", "Base64", "URL", "Runtime", "ProcessBuilder", "HttpsURLConnection", "HttpURLConnection", "URLConnection", "Process", "isProcessRunning", "isProcessRunningTitle", "System.getProperty", "System.getenv", "Runtime.getRuntime().exec", ".exec"
