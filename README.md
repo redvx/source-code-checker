@@ -2,7 +2,8 @@
 
 Usage: Put the source code in the same directory as the source-code-checker.jar, then run the jar file.
 
-Let me know if anything should be added:
+Let me know if anything should be added
+
 
 Checks the source code for there strings:
 
