@@ -1,45 +1,48 @@
 # Source code checker
 
-"LaunchClassLoader",
+Usage: Put the source code in the same directory as the source-code-checker.jar, then run the jar file.
+Checks the source code for there strings:
 
-"field.setAccessible(true);", 
+LaunchClassLoader
 
-"Launch", 
+field.setAccessible(true); 
 
-"InputStreamReader", 
+Launch 
 
-"new File", 
+InputStreamReader 
 
-"FileOutputStream", 
+new File 
 
-"ProcessBuilder", 
+FileOutputStream 
 
-"BufferedReader", 
+ProcessBuilder 
 
-"Base64", 
+BufferedReader 
 
-"URL", 
+Base64 
 
-"Runtime", 
+URL 
 
-"ProcessBuilder", 
+Runtime 
 
-"HttpsURLConnection", 
+ProcessBuilder 
 
-"HttpURLConnection", 
+HttpsURLConnection 
 
-"URLConnection", 
+HttpURLConnection 
 
-"Process", 
+URLConnection 
 
-"isProcessRunning", 
+Process 
 
-"isProcessRunningTitle", 
+isProcessRunning 
 
-"System.getProperty", 
+isProcessRunningTitle 
 
-"System.getenv", 
+System.getProperty 
 
-"Runtime.getRuntime().exec", 
+System.getenv 
 
-".exec"
+Runtime.getRuntime().exec 
+
+.exec
