@@ -1,6 +1,7 @@
 # Source code checker
 
 Usage: Put the source code in the same directory as the source-code-checker.jar, then run the jar file.
+
 Checks the source code for there strings:
 
 LaunchClassLoader
