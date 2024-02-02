@@ -14,7 +14,32 @@ import java.util.Objects;
 import java.util.stream.Stream;
 
 public class Main {
-    private static final String[] stringsToCheck = new String[]{"LaunchClassLoader", ".setAccessible(true);", "Launch", "InputStreamReader", "FileOutputStream", "ProcessBuilder", "BufferedReader", "Base64", "URL", "Runtime", "ProcessBuilder", "HttpsURLConnection", "HttpURLConnection", "URLConnection", "Process", "isProcessRunning", "isProcessRunningTitle", "System.getProperty", "System.getenv", "Runtime.getRuntime().exec", ".exec"};
+    private static final String[] stringsToCheck = new String[]{"LaunchClassLoader",
+                                                                ".setAccessible(true);",
+                                                                "Launch",
+                                                                "InputStreamReader",
+                                                                "FileOutputStream",
+                                                                "ProcessBuilder",
+                                                                "BufferedReader",
+                                                                "Base64",
+                                                                "URL",
+                                                                "Runtime",
+                                                                "ProcessBuilder",
+                                                                "HttpsURLConnection",
+                                                                "HttpURLConnection",
+                                                                "URLConnection",
+                                                                "Process",
+                                                                "isProcessRunning",
+                                                                "isProcessRunningTitle",
+                                                                "System.getProperty",
+                                                                "System.getenv",
+                                                                "Runtime.getRuntime().exec",
+                                                                ".exec",
+                                                                ".connect",
+                                                                "new Socket",
+                                                                "Socket",
+                                                                "ThreadPool",
+                                                                "InetAddress"};
 
     public static void main(String[] stringArray) {
         DecimalFormat decimalFormat = new DecimalFormat("#0.00");
