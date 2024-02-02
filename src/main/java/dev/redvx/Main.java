@@ -39,7 +39,8 @@ public class Main {
                                                                 "new Socket",
                                                                 "Socket",
                                                                 "ThreadPool",
-                                                                "InetAddress"};
+                                                                "InetAddress", 
+                                                                "Class.forName"};
 
     public static void main(String[] stringArray) {
         DecimalFormat decimalFormat = new DecimalFormat("#0.00");
